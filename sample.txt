@@ -1,2 +1,4 @@
 ECHO is on.
 Echo is now off.
+Echo is again on now.
+echo.
